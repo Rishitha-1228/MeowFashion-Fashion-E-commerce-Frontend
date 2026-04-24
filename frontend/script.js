@@ -1,3 +1,4 @@
+const API_URL = "https://meowfashion-fashion-e-commerce-frontend-1.onrender.com/products";
 var dropdown = document.getElementsByClassName("dropdown-btn");
 var i;
 
